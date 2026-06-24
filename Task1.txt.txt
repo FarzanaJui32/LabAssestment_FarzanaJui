@@ -1,0 +1,1 @@
+We use git commit to create a saved snapshot of our project changes
